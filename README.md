@@ -22,7 +22,7 @@ React + Redux Toolkit implementation for the UIDAI Sandbox Frontend Developer as
 
 ## Run in VS Code
 
-1. clone git
+1. git clone
 2. Open the  `uidai-wallet` folder in VS Code.
 3. Open Terminal -> New Terminal.
 4. Run:
